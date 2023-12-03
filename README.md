@@ -2,3 +2,5 @@
 A small game, submission for the test
 ## WebGL Build
 https://play.unity.com/mg/other/webgl-builds-381174
+
+Wasd movement, Left Click shoot!
